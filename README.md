@@ -35,7 +35,7 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 - Current enrolment levels are returning toward pre-COVID levels (1495 vs 1239), signaling a normalization period but also the need for interventions to restore growth.
 
 <p align="center">
-  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/overall_trend.png?raw=true" width="800">
+  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/enrollment_trend.png?raw=true" width="800">
 </p>
 <p align="center">
   <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/overall_trend_time.png?raw=true" width="800">
@@ -72,7 +72,7 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
   <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/student_flow.png?raw=true" width="800">
 </p>
 
-### Cohort Retention Curve (Year-Over-Year Persistence)
+### Cohort Retention Curve 
 
 - Year-1 retention increased by 5–10 percentage points for the newest cohort compared to 2020–2022.  
 - Cohort 2023 shows the strongest Year-2 to Year-3 persistence, indicating better mid-program stability.  
