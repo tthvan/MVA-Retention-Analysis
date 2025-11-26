@@ -34,7 +34,10 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 - Enrolment continues to decline year over year (-23% to -7%), reaching its lowest point in 2024–2025 (1495 students).  
 - Current enrolment levels are returning toward pre-COVID levels (1495 vs 1239), signaling a normalization period but also the need for interventions to restore growth.
 
-<img src="https://example.com/image.jpg" alt="My Image" width="500"/>
+<p align="center">
+  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/enrollment_trend.png?raw=true" width="800">
+</p>
+
 
 ### Student Distribution by Grade
 
