@@ -37,9 +37,8 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 <p align="center">
   <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/overall_trend.png?raw=true" width="800">
 </p>
-
 <p align="center">
-  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/overall_trend.png?raw=true" width="800">
+  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/overall_trend_time.png?raw=true" width="800">
 </p>
 
 
@@ -69,6 +68,9 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 - Grades 1–5 show smaller forward flows, indicating fewer students advancing compared to other segments.  
 - Grades 7–8 show more stable and predictable grade movement.  
 - PreK consistently shows the highest share of students leaving the school.
+<p align="center">
+  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/student_flow.png?raw=true" width="800">
+</p>
 
 ### Cohort Retention Curve (Year-Over-Year Persistence)
 
@@ -76,12 +78,18 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 - Cohort 2023 shows the strongest Year-2 to Year-3 persistence, indicating better mid-program stability.  
 - Cohorts 2020–2021 show the weakest retention, likely influenced by COVID-19 disruptions and inconsistent learning environments.  
 - Retention past Year 4 remains low across all cohorts, suggesting limited long-term engagement.
+<p align="center">
+  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/retetion_curve.png?raw=true" width="800">
+</p>
 
 ### New Student Enrolment Trends
 
 - Grades K–5 receive the highest number of new students, with PreK peaking in 2021 before declining steadily.  
 - Grades K and 1 consistently attract 60–70 new students per year, roughly double other grades (max ~37).  
 - New enrolment stabilized (10–30 per grade) after large swings from 2019–2021 due to COVID-19 impacts.
+<p align="center">
+  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/new_students.png?raw=true" width="800">
+</p>
 
 ### Loyalty and Long-Term Families
 
