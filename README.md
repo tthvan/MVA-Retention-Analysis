@@ -35,8 +35,13 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 - Current enrolment levels are returning toward pre-COVID levels (1495 vs 1239), signaling a normalization period but also the need for interventions to restore growth.
 
 <p align="center">
-  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/enrollment_trend.png?raw=true" width="800">
+  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/overall_trend.png?raw=true" width="800">
 </p>
+
+<p align="center">
+  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/overall_trend.png?raw=true" width="800">
+</p>
+
 
 
 ### Student Distribution by Grade
@@ -44,11 +49,19 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 - PreK, Grade 7, and Grade 8 consistently have the lowest enrolment (5–7%).  
 - Grades 1–3 maintain the highest share (11–13%), while overall grade distribution remains fairly balanced at ~10% per grade.
 
+<p align="center">
+  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/enrollment_by_grades.png?raw=true" width="800">
+</p>
+
 ### Dropout Rate Within Each Grade
 
 - Grades 7–12 show high dropout levels (~50%), increasing by 10% from SY23-24 to SY24-25.  
 - Grades 1–6 improved from 38% to 33% dropout last year.  
 - Kindergarten shows variable behavior, ranging from 33% lows (2022–2023) to 52% highs (2025).
+
+<p align="center">
+  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/dropout_by_grades.png?raw=true" width="800">
+</p>
 
 ### Student Flow Between Grades
 
@@ -74,6 +87,10 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 
 - 86% of students stay for three years or less (1-year streak: 53%, 2-year: 22%, 3-year: 12%).  
 - After three years, only 1–6% of students remain enrolled, indicating that most families treat MVA as a short-term or transitional option.
+
+<p align="center">
+  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/loyal_families.png?raw=true" width="800">
+</p>
 
 ## Recommendations
 
