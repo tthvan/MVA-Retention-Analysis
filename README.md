@@ -29,9 +29,10 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 ## Insights Deep-Dive
 
 ### Overall Enrollment and Yearly Dropout Rate Trends
-- Total enrollment soared in 2020 mostly due to a surge of new students registering (increasing 1.5x from previous year). This is likely due to school closures on a large scale (from COVID19) and families shift to online learning. 
-- Enrolment continues to decline year over year (-23% to -7%), reaching its lowest point in 2024–2025 (1495 students).  
-- Dropout rate averaged 50% from 2019–2024, with a spike to 66% in 2020–2021 during pandemic recovery.  
+- Total enrollment soared in 2020 mostly due to a surge of new students registering (increasing 140% from previous year). This is likely due to school closures on a large scale (from COVID19) and families shift to online learning. 
+- However, this surge proved to be short-term as the new registrations drops significantly for the next 2 years 2021 & 2022 (each year witnessed an average -50% drop). This is also reflected in the dropout rate the same year (2020) reaching all-time high (66%) and staying at 51% and 47% the next 2 years. This shows that the customers gained from the surge is not long-term and may start leaving after traditional schools showing signs of recovery. 
+- Enrolment continues to decline year over year (-23% to -7%), reaching its lowest point in 2024–2025 (1495 students). Even though throughout 2022-2024, enrollment shows positive signs of stabilizing after COVID19 adjustments, 2023-2024 school year shows concerning signs of total enrollment decreased -22%, with both lower new registrations and lower students returning. 
+- Dropout rate averaged 48% and ranged from 39%-from 2019–2024,   
 - Current enrolment levels are returning toward pre-COVID levels (1495 vs 1239), signaling a normalization period but also the need for interventions to restore growth.
 
 <p align="center">
