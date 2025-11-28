@@ -31,8 +31,7 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 ### Overall Enrollment and Yearly Dropout Rate Trends
 - Total enrollment soared in 2020 mostly due to a surge of new students registering (increasing 140% from previous year). This is likely due to school closures on a large scale (from COVID19) and families shift to online learning. 
 - However, this surge proved to be short-term as the new registrations drops significantly for the next 2 years 2021 & 2022 (each year witnessed an average -50% drop). This is also reflected in the dropout rate the same year (2020) reaching all-time high (66%) and staying at 51% and 47% the next 2 years. This shows that the customers gained from the surge is not long-term and may start leaving after traditional schools showing signs of recovery. 
-- Enrolment continues to decline year over year (-23% to -7%), reaching its lowest point in 2024–2025 (1495 students). Even though throughout 2022-2024, enrollment shows positive signs of stabilizing after COVID19 adjustments, 2023-2024 school year shows concerning signs of total enrollment decreased -22%, with both lower new registrations and lower students returning. 
-- Dropout rate averaged 48% and ranged from 39%-from 2019–2024,   
+- Enrolment continues to decline year over year (-23% to -7%), reaching its lowest point in 2024–2025 (1495 students). Even though throughout 2022-2024, enrollment shows positive signs of stabilizing after COVID19 adjustments, 2023-2024 school year shows concerning signs as total enrollment decreased -22%, due to both lower new registrations and lower students returning. 
 - Current enrolment levels are returning toward pre-COVID levels (1495 vs 1239), signaling a normalization period but also the need for interventions to restore growth.
 
 <p align="center">
@@ -43,27 +42,7 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 </p>
 
 
-
-### Student Distribution by Grade
-
-- PreK, Grade 7, and Grade 8 consistently have the lowest enrolment (5–7%).  
-- Grades 1–3 maintain the highest share (11–13%), while overall grade distribution remains fairly balanced at ~10% per grade.
-
-<p align="center">
-  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/enrollment_by_grades.png?raw=true" width="800">
-</p>
-
-### Dropout Rate Within Each Grade
-
-- Grades 7–12 show high dropout levels (~50%), increasing by 10% from SY23-24 to SY24-25.  
-- Grades 1–6 improved from 38% to 33% dropout last year.  
-- Kindergarten shows variable behavior, ranging from 33% lows (2022–2023) to 52% highs (2025).
-
-<p align="center">
-  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/dropout_by_grades.png?raw=true" width="800">
-</p>
-
-### Student Flow Between Grades
+### Student Distribution and Dropout by Grade
 
 - Most students progress to the next expected grade.  
 - Grades 1–5 show smaller forward flows, indicating fewer students advancing compared to other segments.  
@@ -72,6 +51,23 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 <p align="center">
   <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/student_flow.png?raw=true" width="800">
 </p>
+
+- Student population are distributed quite evenly between grades (each taking up 7%-13%)
+- PreK, Grade 7, and Grade 8 consistently have the lowest enrolment (5–7%).  
+- Grades 1–3 maintain the highest share (11–13%), while overall grade distribution remains fairly balanced at ~10% per grade.
+
+<p align="center">
+  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/enrollment_by_grades.png?raw=true" width="800">
+</p>
+
+- Grades 7–12 show high dropout levels (~50%), increasing by 10% from SY23-24 to SY24-25.  
+- Grades 1–6 improved from 38% to 33% dropout last year.  
+- Kindergarten (Grade K) shows variable behavior, ranging from 33% lows (2022–2023) to 52% highs (2025).
+
+<p align="center">
+  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/dropout_by_grades.png?raw=true" width="800">
+</p>
+
 
 ### Cohort Retention Curve 
 
