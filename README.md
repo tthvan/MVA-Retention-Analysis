@@ -41,16 +41,18 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
   <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/overall_trend_time.png?raw=true" width="800">
 </p>
 
+### Student Flow Between Grades
 
-### Student Distribution and Dropout by Grade
-
-- Most students progress to the next expected grade.  
+- Generally, most students progress to the next expected grade.  
 - Grades 1–5 show smaller forward flows, indicating fewer students advancing compared to other segments.  
 - Grades 7–8 show more stable and predictable grade movement.  
 - PreK consistently shows the highest share of students leaving the school.
 <p align="center">
   <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/student_flow.png?raw=true" width="800">
 </p>
+
+
+### Student Distribution and Dropout by Grade
 
 - Student population are distributed quite evenly between grades (each taking up 7%-13%)
 - PreK, Grade 7, and Grade 8 consistently have the lowest enrolment (5–7%).  
@@ -60,6 +62,8 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
   <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/enrollment_by_grades.png?raw=true" width="800">
 </p>
 
+### Dropout Rate Within Each Grade
+
 - Grades 7–12 show high dropout levels (~50%), increasing by 10% from SY23-24 to SY24-25.  
 - Grades 1–6 improved from 38% to 33% dropout last year.  
 - Kindergarten (Grade K) shows variable behavior, ranging from 33% lows (2022–2023) to 52% highs (2025).
@@ -67,7 +71,6 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 <p align="center">
   <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/dropout_by_grades.png?raw=true" width="800">
 </p>
-
 
 ### Cohort Retention Curve 
 
