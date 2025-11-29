@@ -54,19 +54,19 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 
 - Generally, most students progress to the next expected grade.  
 - All grades show smaller forward flows from 2022-2025, indicating fewer students advancing, with progress:drop ratios of ~17:10 in 2022 to ~12:10 in 2025, or for every 12 students progressing, there will be 10 dropping.  
-- PreK shows the highest share of students leaving the school, having a progress:drop ratio of 1:6, meaning for every 1 student returning next year, there will be 6 other students leaving.
+- PreK shows the highest share of students leaving the school, having a progress:drop ratio of 1:6, meaning for every 7 students, only 1 student will return next year, while the remaining 6 will leave.
 <p align="center">
   <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/student_flow.png?raw=true" width="800">
 </p>
 
 ### Recommendation
 - Create grade-transition playbooks (communications, trial classes, parent sessions) for grades with weaker forward flows.
-- Treat PreK as a special case: decide if it’s meant as a one-year bridge or a pipeline into K, and design PreK→K offers accordingly.
+- Treat PreK as a special case: decide if it should be a one-year bridge or a pipeline into K, and design PreK→K offers accordingly.
 - Develop a simple “transition risk” score to flag students likely to drop at key grade changes and target them with proactive outreach.
 
 ### Student Distribution and Dropout by Grade
 
-- PreK, Grade 7, and Grade 8 consistently have the lowest enrolment (5–7%) over the years.  
+- PreK, Grade 7, and Grade 8 consistently have the lowest enrolment (account for 5–7%) over the years.  
 - Grades 1–3 maintain the highest share (11–13%), while overall grade distribution remains fairly balanced at ~10% per grade.
 
 <p align="center">
@@ -75,7 +75,7 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 
 ### Recommendation
 - Protect Grades 1–3 as the core base, ensuring the strongest teaching quality, communication, and support there.
-- Clarify the role of small grades (PreK, 7, 8) — either invest to grow them as feeders or right-size and position them as niche offerings.
+- Clarify the role of small classes (from PreK, 7, 8) — the institution may have to position them as niche offerings and optimize resources and staffing accordingly. Such patterns of low enrollment from these grades over the years might be a permanent characteristic, as they are at important transitioning points in students' life (transitioning to primary / highschool)
 - Review capacity and profitability by grade to align staffing and class sizes with actual demand and margin.
 
 ### Dropout Rate Within Each Grade
@@ -89,14 +89,15 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 </p>
 
 ### Recommendation
-- Split retention tactics by stage: Early years (PreK–K), Primary (1–6), Secondary (7–12), with tailored objectives and interventions.
-- For Grades 7–12, run a focused deep dive (reasons for leaving, competition, engagement data) and design exam-focused or flexible offerings.
+- Split retention strategies by stage: Early years (PreK–K), Primary (1–6), Secondary (7–12), with tailored objectives and interventions.
+- For Grades 7–12, run a focused deep dive and feedback (reasons for leaving, competition, engagement data) and design exam-focused or flexible offerings that fit students' demands.
 - Stabilize Kindergarten by standardizing onboarding and monitoring any curriculum/teacher changes, with grade-level dropout targets set and tracked.
 
 ### Cohort Retention Curve 
 
-- Cohort 2019 shows turbulent behavior, with their engagement plunged sugnificantly to near 0 only after Year 2.
+- Overall, over the years, the cohort retention curves become flatter and higher, showing positive signs of retention improvement. 
 - Year-1 retention increased by 5–10 percentage points for the newest cohort compared to 2020–2022.  
+- Cohort 2019 shows turbulent behavior (Cohort gained from COVID19), with their engagement plunged sugnificantly to near 0 only after Year 2.
 - Cohort 2023 shows the strongest Year-2 to Year-3 persistence, indicating better mid-program stability.  
 - Cohorts 2020–2021 show the weakest retention, likely influenced by COVID-19 disruptions and inconsistent learning environments.  
 - Retention past Year 4 remains low across all cohorts, suggesting limited long-term engagement.
@@ -140,7 +141,7 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 
 ## Assumptions and Caveats
 
-- COVID-19 significantly affected enrolment, retention, and new student spikes between 2019–2021.  
+- COVID19 significantly affected enrolment, retention, and new student spikes between 2019–2021.  
 - Student IDs and grade placements are assumed to be consistent year-over-year for tracking cohorts.  
 - PreK behaviour differs from K–12 patterns due to age-based transitions and family circumstances.  
 - High dropout rates in Grades 9–12 may reflect external academic priorities rather than dissatisfaction with the program.  
