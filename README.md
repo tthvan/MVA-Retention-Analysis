@@ -1,7 +1,5 @@
 # MV Academy (MVA) Retention and Dropout Analysis
 
-> For more of my projects and data journey, visit my [Portfolio](*).
-
 ## Table of Contents
 
 - [Project Background](#project-background)  
@@ -21,14 +19,12 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 
 ## Executive Summary
 
-- Enrollment normalized after a short-lived COVID surge. Total enrollment spiked in 2020 due to a 140% increase in new students, then declined steadily (-23% to -7% YoY) back toward pre-COVID levels (1495 vs. 1239), indicating that most surge-driven growth was not sustainable.
-- Dropout remains structurally high, especially for surge cohorts. Dropout peaked at 66% in 2020 and has stayed elevated (around 51–47%), showing that many families acquired during COVID did not convert into long-term customers as traditional schools recovered.
-- Grade flows highlight critical weak points. Most students progress as expected, but PreK has extremely weak retention (progress:drop ≈ 1:6), and upper grades (7–12) show dropout around 50%, with recent deterioration, signalling pressure at both the entry-level and advanced-grade ends.
-- Enrollment by grade is relatively balanced but core growth relies on early grades. Grades 1–3 hold the largest and most stable share of students (11–13%), while PreK, Grade 7, and Grade 8 remain structurally small (5–7%), suggesting that protecting early primary years is key for volume.
-- Cohort retention is concentrated in the first 2–3 years. 86% of students leave within three years (53% after one year), with COVID-era cohorts (2020–2021) showing especially weak persistence; the 2023 cohort performs better in Year-2 to Year-3, indicating that improved onboarding and targeting can move the curve.
-- New student acquisition is driven by K–5, especially K–1. K and Grade 1 consistently attract 60–70 new students per year, almost double other grades, while PreK new enrollments peaked in 2021 and then declined, confirming that lower primary is the main acquisition engine.
-- MVA behaves as a short- to mid-term option for most families. With very low retention beyond Year 4 and a majority of students staying three years or less, the current business model operates more like a 1–3 year transitional solution than a long-term schooling destination.
-- Strategic focus should shift from one-off surges to durable retention. The main levers are: stabilizing early-year and transition-grade retention (PreK→K and 6→7, 8→9), improving outcomes for secondary grades, and converting more 1-year families into 2–3 year loyal customers through targeted cohort and grade-specific interventions.
+- Enrollment stabilized after a short-lived COVID surge. Total enrollment spiked in 2020 due to a 140% increase in new students, then declined steadily (-23% to -7% YoY) back toward pre-COVID levels (1495 vs. 1239), indicating that most surge-driven growth was not sustainable.
+- Grade-to-grade flows highlight critical weak points. Most students progress to the next grade, but PreK has extremely weak retention (progress:drop ~ 1:6), and upper grades (7–12) show dropout around 50%, with recent further drops, signalling pressure at both the entry-level and advanced-grades.
+- Enrollment by grade is relatively balanced but core growth relies on early grades. Grades 1–3 hold the largest and most stable share of students (11–13%), while PreK, Grade 7, and Grade 8 remain cónistently small (5–7%), suggesting that protecting early primary years is key for retaining quantity.
+- Cohort retention is concentrated in the first 2–3 years. 86% of students leave within three years (53% after one year). The 2023 cohort (more recent cohorts) performs better in Year-2 to Year-3, indicating improving onboarding and targeting such newer cohorts can improve the retention curve.
+- As a reuslt, MVA behaves as a short- to mid-term option for most families. With very low retention beyond Year 4 and a majority of students staying three years or less, the current business model operates more like a 1–3 year transitional solution than a long-term schooling destination.
+- Strategic focus should shift to durable retention. The main focuses are: stabilizing early-year and transition-grade retention (PreK->K and 6->7, 8->9), improving outcomes for secondary grades, and converting more 1-year families into 2–3 year loyal customers through cohort-specific and grade-specific interventions.
 
 ## Insights Deep-Dive
 
