@@ -71,7 +71,7 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 
 ### Recommendation
 - Protect Grades 1–3 as the core base, ensuring the strongest teaching quality, communication, and support there.
-- Clarify the role of small classes (from PreK, 7, 8) — the institution may have to position them as niche offerings and optimize resources and staffing accordingly. Such patterns of low enrollment from these grades over the years might be a permanent characteristic, as they are at important transitioning points in students' life (transitioning to primary / highschool)
+- Clarify the role of small classes (from PreK, 7, 8) - the institution may have to position them as niche offerings and optimize resources and staffing accordingly. Such patterns of low enrollment from these grades over the years might be a permanent characteristic, as they are at important transitioning points in students' life (transitioning to primary / highschool)
 - Review capacity and profitability by grade to align staffing and class sizes with actual demand and margin.
 
 ### Cohort Retention Curve 
@@ -90,7 +90,6 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 - Position MVA around 2–3 year learning journeys, since most families leave within three years; design programs and pricing to match.
 - Analyze what made Cohort 2023 stronger (channels, grades, products, teachers) and use this to refine the “ideal” target profile.
 - Use cohort/survival dashboards and trigger “save at Year-2” interventions (check-ins, offers, personalized plans) before the usual drop.
-- 
 
 ### Dropout Rate Within Each Grade
 
