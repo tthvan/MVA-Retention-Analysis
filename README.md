@@ -74,21 +74,6 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 - Clarify the role of small classes (from PreK, 7, 8) — the institution may have to position them as niche offerings and optimize resources and staffing accordingly. Such patterns of low enrollment from these grades over the years might be a permanent characteristic, as they are at important transitioning points in students' life (transitioning to primary / highschool)
 - Review capacity and profitability by grade to align staffing and class sizes with actual demand and margin.
 
-### Dropout Rate Within Each Grade
-
-- Grades 7–12 show high dropout levels (~50%), increasing by 10% from SY23-24 to SY24-25.  
-- Grades 1–6 improved from 38% to 33% dropout last year.  
-- Kindergarten (Grade K) shows fluctuating behavior, ranging from 33% lows (2022–2023) to 52% highs (2025).
-
-<p align="center">
-  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/dropout_by_grades.png?raw=true" width="800">
-</p>
-
-### Recommendation
-- Split retention strategies by stage: Early years (PreK–K), Primary (1–6), Secondary (7–12), with tailored objectives and interventions.
-- For Grades 7–12, run a focused deep dive and feedback (reasons for leaving, competition, engagement data) and design exam-focused or flexible offerings that fit students' demands.
-- Stabilize Kindergarten by standardizing onboarding and monitoring any curriculum/teacher changes, with grade-level dropout targets set and tracked.
-
 ### Cohort Retention Curve 
 
 - Overall, over the years, the cohort retention curves become flatter and higher, showing positive signs of retention improvement. 
@@ -105,7 +90,22 @@ MVA is an online PreK-12 academy which aims to provide affordable US-standardize
 - Position MVA around 2–3 year learning journeys, since most families leave within three years; design programs and pricing to match.
 - Analyze what made Cohort 2023 stronger (channels, grades, products, teachers) and use this to refine the “ideal” target profile.
 - Use cohort/survival dashboards and trigger “save at Year-2” interventions (check-ins, offers, personalized plans) before the usual drop.
+- 
 
+### Dropout Rate Within Each Grade
+
+- Grades 7–12 show high dropout levels (~50%), increasing by 10% from SY23-24 to SY24-25.  
+- Grades 1–6 improved from 38% to 33% dropout last year.  
+- Kindergarten (Grade K) shows fluctuating behavior, ranging from 33% lows (2022–2023) to 52% highs (2025).
+
+<p align="center">
+  <img src="https://github.com/tthvan/MVA-Retention-Analysis/blob/main/visualizations/dropout_by_grades.png?raw=true" width="800">
+</p>
+
+### Recommendation
+- Split retention strategies by stage: Early years (PreK–K), Primary (1–6), Secondary (7–12), with tailored objectives and interventions.
+- For Grades 7–12, run a focused deep dive and feedback (reasons for leaving, competition, engagement data) and design exam-focused or flexible offerings that fit students' demands.
+- Stabilize Kindergarten by standardizing onboarding and monitoring any curriculum/teacher changes, with grade-level dropout targets set and tracked.
 
 ### New Student Enrolment Trends
 
